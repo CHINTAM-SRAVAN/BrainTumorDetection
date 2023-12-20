@@ -1,0 +1,11 @@
+Youtube Video:
+https://youtu.be/vsaSkniOjk0
+
+Drive Video:
+https://drive.google.com/file/d/1O4e23vHTpC07FLeITImrOrMZLUr7lysX/view
+
+Deployment (Prediction not working)
+https://brain-tumor-95l8.onrender.com/
+
+Github Repository:
+https://github.com/CHINTAM-SRAVAN/BrainTumor
